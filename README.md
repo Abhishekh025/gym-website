@@ -17,6 +17,5 @@ Fitness website to be linked with a fitness app. Started as a school project.
 
 ### Project Live URI:
 
-[Live Demo](https://mian-ali.github.io/GymWebsite/)
+[Live Demo](https://physical-health.netlify.app/)
 
-### ScreenShoot
